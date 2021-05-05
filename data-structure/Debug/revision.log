@@ -1,0 +1,17 @@
+﻿Build started 4/29/2021 11:39:09 PM.
+     1>Project "C:\Users\hacko\documents\visual studio 2010\Projects\revision\revision\revision.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\revision.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         revision.vcxproj -> C:\Users\hacko\documents\visual studio 2010\Projects\revision\Debug\revision.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\revision.unsuccessfulbuild".
+         Touching "Debug\revision.lastbuildstate".
+     1>Done Building Project "C:\Users\hacko\documents\visual studio 2010\Projects\revision\revision\revision.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.16
